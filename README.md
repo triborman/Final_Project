@@ -1,1 +1,1 @@
-# slider-react
+# Final Project
